@@ -1,0 +1,757 @@
+ROUND 1: Greasy Card is Queen
+BAG: 30 Chips left
+PLAYER 2: hand 11
+PLAYER 2: draws 4
+Cards in Deck: 7 Jack 6 Queen 10 Jack 2 8 5 6 6 8 9 5 King King King 2 10 3 7 8 6 10 4 King 9 Jack Queen 9 7 9 5 4 5 Ace Ace 3 2 4 2 3 3 Ace Queen 
+PLAYER 2: discards 11 at random
+Cards in Deck: Jack 7 Jack 6 Queen 10 Jack 2 8 5 6 6 8 9 5 King King King 2 10 3 7 8 6 10 4 King 9 Jack Queen 9 7 9 5 4 5 Ace Ace 3 2 4 2 3 3 Ace Queen 
+BAG: 30 Chips left
+PLAYER 2: eats 4 chips
+BAG: 26 Chips left
+Next player: 3
+PLAYER 3: hand 1
+PLAYER 3: draws 12
+Cards in Deck: Jack 7 Jack 6 Queen 10 Jack 2 8 5 6 6 8 9 5 King King King 2 10 3 7 8 6 10 4 King 9 Jack Queen 9 7 9 5 4 5 Ace Ace 3 2 4 2 3 3 Ace 
+PLAYER 3: hand (1, 12) <> Greasy card is 12
+Next player: 2
+PLAYER 3: wins round 1
+PLAYER 2: lost round 1
+PLAYER 5: lost round 1
+PLAYER 4: lost round 1
+PLAYER 6: lost round 1
+The Current Round: 1 has ended. 
+
+ROUND 2: Greasy Card is 3
+BAG: 30 Chips left
+PLAYER 3: hand 2
+PLAYER 3: draws 10
+Cards in Deck: 10 8 Queen 4 Jack 2 4 Queen Queen 6 Ace 9 5 3 Jack 6 9 5 9 Jack 7 4 10 3 King Jack 6 10 Ace Ace 8 Ace 7 King 7 8 8 4 Queen King 7 2 9 2 6 
+PLAYER 3: discards 10 at random
+Cards in Deck: 10 10 8 Queen 4 Jack 2 4 Queen Queen 6 Ace 9 5 3 Jack 6 9 5 9 Jack 7 4 10 3 King Jack 6 10 Ace Ace 8 Ace 7 King 7 8 8 4 Queen King 7 2 9 2 6 
+BAG: 30 Chips left
+PLAYER 3: eats 3 chips
+BAG: 27 Chips left
+Next player: 4
+PLAYER 4: hand 3
+PLAYER 4: draws 6
+Cards in Deck: 10 10 8 Queen 4 Jack 2 4 Queen Queen 6 Ace 9 5 3 Jack 6 9 5 9 Jack 7 4 10 3 King Jack 6 10 Ace Ace 8 Ace 7 King 7 8 8 4 Queen King 7 2 9 2 
+PLAYER 4: hand (3, 6) <> Greasy card is 3
+Next player: 1
+PLAYER 4: wins round 2
+PLAYER 1: lost round 2
+PLAYER 6: lost round 2
+PLAYER 5: lost round 2
+PLAYER 3: lost round 2
+The Current Round: 2 has ended. 
+
+ROUND 3: Greasy Card is 4
+BAG: 30 Chips left
+PLAYER 4: hand 2
+PLAYER 4: draws 8
+Cards in Deck: 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 Jack Ace 
+PLAYER 4: discards 2 at random
+Cards in Deck: 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 Jack Ace 
+BAG: 30 Chips left
+PLAYER 4: eats 1 chips
+BAG: 29 Chips left
+Next player: 5
+PLAYER 5: hand 1
+PLAYER 5: draws 1
+Cards in Deck: 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 Jack 
+PLAYER 5: discards 1 at random
+Cards in Deck: Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 Jack 
+BAG: 29 Chips left
+PLAYER 5: eats 1 chips
+BAG: 28 Chips left
+Next player: 6
+PLAYER 6: hand 10
+PLAYER 6: draws 11
+Cards in Deck: Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 
+PLAYER 6: discards 11 at random
+Cards in Deck: Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 2 
+BAG: 28 Chips left
+PLAYER 6: eats 5 chips
+BAG: 23 Chips left
+Next player: 1
+PLAYER 1: hand 6
+PLAYER 1: draws 2
+Cards in Deck: Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 
+PLAYER 1: discards 2 at random
+Cards in Deck: 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King Jack 
+BAG: 23 Chips left
+PLAYER 1: eats 4 chips
+BAG: 19 Chips left
+Next player: 2
+PLAYER 2: hand 5
+PLAYER 2: draws 11
+Cards in Deck: 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King 
+PLAYER 2: discards 11 at random
+Cards in Deck: Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 King 
+BAG: 19 Chips left
+PLAYER 2: eats 2 chips
+BAG: 17 Chips left
+Next player: 4
+PLAYER 4: hand 8
+PLAYER 4: draws 13
+Cards in Deck: Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 
+PLAYER 4: discards 13 at random
+Cards in Deck: King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 3 
+BAG: 17 Chips left
+PLAYER 4: eats 2 chips
+BAG: 15 Chips left
+Next player: 5
+PLAYER 5: hand 1
+PLAYER 5: draws 3
+Cards in Deck: King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 
+PLAYER 5: discards 1 at random
+Cards in Deck: Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 7 
+BAG: 15 Chips left
+PLAYER 5: eats 2 chips
+BAG: 13 Chips left
+Next player: 6
+PLAYER 6: hand 10
+PLAYER 6: draws 7
+Cards in Deck: Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 
+PLAYER 6: discards 7 at random
+Cards in Deck: 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 6 
+BAG: 13 Chips left
+PLAYER 6: eats 5 chips
+BAG: 8 Chips left
+Next player: 1
+PLAYER 1: hand 6
+PLAYER 1: draws 6
+Cards in Deck: 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 
+PLAYER 1: discards 6 at random
+Cards in Deck: 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 King 
+BAG: 8 Chips left
+PLAYER 1: eats 1 chips
+BAG: 7 Chips left
+Next player: 2
+PLAYER 2: hand 5
+PLAYER 2: draws 13
+Cards in Deck: 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 
+PLAYER 2: discards 5 at random
+Cards in Deck: 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 10 
+BAG: 7 Chips left
+PLAYER 2: eats 3 chips
+BAG: 4 Chips left
+Next player: 4
+PLAYER 4: hand 8
+PLAYER 4: draws 10
+Cards in Deck: 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 
+PLAYER 4: discards 10 at random
+Cards in Deck: 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 7 
+BAG: 4 Chips left
+PLAYER 4: eats 5 chips
+BAG: 29 Chips left
+Next player: 5
+PLAYER 5: hand 3
+PLAYER 5: draws 7
+Cards in Deck: 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 
+PLAYER 5: discards 3 at random
+Cards in Deck: 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 3 
+BAG: 29 Chips left
+PLAYER 5: eats 4 chips
+BAG: 25 Chips left
+Next player: 6
+PLAYER 6: hand 10
+PLAYER 6: draws 3
+Cards in Deck: 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 
+PLAYER 6: discards 10 at random
+Cards in Deck: 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 7 
+BAG: 25 Chips left
+PLAYER 6: eats 3 chips
+BAG: 22 Chips left
+Next player: 1
+PLAYER 1: hand 6
+PLAYER 1: draws 7
+Cards in Deck: 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 
+PLAYER 1: discards 7 at random
+Cards in Deck: 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 6 
+BAG: 22 Chips left
+PLAYER 1: eats 5 chips
+BAG: 17 Chips left
+Next player: 2
+PLAYER 2: hand 13
+PLAYER 2: draws 6
+Cards in Deck: 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 
+PLAYER 2: discards 6 at random
+Cards in Deck: 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace Queen 
+BAG: 17 Chips left
+PLAYER 2: eats 1 chips
+BAG: 16 Chips left
+Next player: 4
+PLAYER 4: hand 8
+PLAYER 4: draws 12
+Cards in Deck: 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace 
+PLAYER 4: discards 12 at random
+Cards in Deck: Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 Ace 
+BAG: 16 Chips left
+PLAYER 4: eats 1 chips
+BAG: 15 Chips left
+Next player: 5
+PLAYER 5: hand 7
+PLAYER 5: draws 1
+Cards in Deck: Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 
+PLAYER 5: discards 1 at random
+Cards in Deck: Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 8 
+BAG: 15 Chips left
+PLAYER 5: eats 4 chips
+BAG: 11 Chips left
+Next player: 6
+PLAYER 6: hand 3
+PLAYER 6: draws 8
+Cards in Deck: Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 
+PLAYER 6: discards 3 at random
+Cards in Deck: 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen King 
+BAG: 11 Chips left
+PLAYER 6: eats 3 chips
+BAG: 8 Chips left
+Next player: 1
+PLAYER 1: hand 6
+PLAYER 1: draws 13
+Cards in Deck: 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen 
+PLAYER 1: discards 6 at random
+Cards in Deck: 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 Queen 
+BAG: 8 Chips left
+PLAYER 1: eats 4 chips
+BAG: 4 Chips left
+Next player: 2
+PLAYER 2: hand 13
+PLAYER 2: draws 12
+Cards in Deck: 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 
+PLAYER 2: discards 13 at random
+Cards in Deck: King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 6 
+BAG: 4 Chips left
+PLAYER 2: eats 1 chips
+BAG: 3 Chips left
+Next player: 4
+PLAYER 4: hand 8
+PLAYER 4: draws 6
+Cards in Deck: King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 
+PLAYER 4: discards 6 at random
+Cards in Deck: 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 8 
+BAG: 3 Chips left
+PLAYER 4: eats 2 chips
+BAG: 1 Chips left
+Next player: 5
+PLAYER 5: hand 7
+PLAYER 5: draws 8
+Cards in Deck: 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 
+PLAYER 5: discards 8 at random
+Cards in Deck: 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 Jack 
+BAG: 1 Chips left
+PLAYER 5: eats 2 chips
+BAG: 29 Chips left
+Next player: 6
+PLAYER 6: hand 8
+PLAYER 6: draws 11
+Cards in Deck: 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 
+PLAYER 6: discards 8 at random
+Cards in Deck: 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 2 
+BAG: 29 Chips left
+PLAYER 6: eats 4 chips
+BAG: 25 Chips left
+Next player: 1
+PLAYER 1: hand 13
+PLAYER 1: draws 2
+Cards in Deck: 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 
+PLAYER 1: discards 13 at random
+Cards in Deck: King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 10 
+BAG: 25 Chips left
+PLAYER 1: eats 5 chips
+BAG: 20 Chips left
+Next player: 2
+PLAYER 2: hand 12
+PLAYER 2: draws 10
+Cards in Deck: King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 
+PLAYER 2: discards 10 at random
+Cards in Deck: 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 9 
+BAG: 20 Chips left
+PLAYER 2: eats 4 chips
+BAG: 16 Chips left
+Next player: 4
+PLAYER 4: hand 8
+PLAYER 4: draws 9
+Cards in Deck: 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 
+PLAYER 4: discards 9 at random
+Cards in Deck: 9 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 8 
+BAG: 16 Chips left
+PLAYER 4: eats 3 chips
+BAG: 13 Chips left
+Next player: 5
+PLAYER 5: hand 7
+PLAYER 5: draws 8
+Cards in Deck: 9 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 
+PLAYER 5: discards 7 at random
+Cards in Deck: 7 9 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 4 
+BAG: 13 Chips left
+PLAYER 5: eats 1 chips
+BAG: 12 Chips left
+Next player: 6
+PLAYER 6: hand 11
+PLAYER 6: draws 4
+Cards in Deck: 7 9 10 King 8 8 6 King 6 3 Ace Queen 6 7 10 3 10 5 6 7 Ace King Jack 2 Jack Ace 2 7 2 Jack 4 3 9 9 Queen 5 Queen 9 King 10 4 5 Ace 3 5 
+PLAYER 6: hand (11, 4) <> Greasy card is 4
+PLAYER 5: lost round 3
+PLAYER 5: lost round 3
+Next player: 1
+PLAYER 4: lost round 3
+PLAYER 2: lost round 3
+PLAYER 6: wins round 3
+PLAYER 1: lost round 3
+The Current Round: 3 has ended. 
+
+ROUND 4: Greasy Card is 2
+BAG: 30 Chips left
+PLAYER 5: hand 12
+PLAYER 5: draws 9
+Cards in Deck: 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King Queen 10 
+PLAYER 5: discards 12 at random
+Cards in Deck: Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King Queen 10 
+BAG: 30 Chips left
+PLAYER 5: eats 4 chips
+BAG: 26 Chips left
+Next player: 6
+PLAYER 6: hand 7
+PLAYER 6: draws 10
+Cards in Deck: Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King Queen 
+PLAYER 6: discards 7 at random
+Cards in Deck: 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King Queen 
+BAG: 26 Chips left
+PLAYER 6: eats 1 chips
+BAG: 25 Chips left
+Next player: 1
+PLAYER 1: hand 9
+PLAYER 1: draws 12
+Cards in Deck: 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King 
+PLAYER 1: discards 9 at random
+Cards in Deck: 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 King 
+BAG: 25 Chips left
+PLAYER 1: eats 1 chips
+BAG: 24 Chips left
+Next player: 2
+PLAYER 2: hand 3
+PLAYER 2: draws 13
+Cards in Deck: 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 
+PLAYER 2: discards 3 at random
+Cards in Deck: 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 6 
+BAG: 24 Chips left
+PLAYER 2: eats 4 chips
+BAG: 20 Chips left
+Next player: 3
+PLAYER 3: hand 6
+PLAYER 3: draws 6
+Cards in Deck: 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 
+PLAYER 3: discards 6 at random
+Cards in Deck: 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 5 
+BAG: 20 Chips left
+PLAYER 3: eats 5 chips
+BAG: 15 Chips left
+Next player: 5
+PLAYER 5: hand 9
+PLAYER 5: draws 5
+Cards in Deck: 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 
+PLAYER 5: discards 9 at random
+Cards in Deck: 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 4 
+BAG: 15 Chips left
+PLAYER 5: eats 2 chips
+BAG: 13 Chips left
+Next player: 6
+PLAYER 6: hand 10
+PLAYER 6: draws 4
+Cards in Deck: 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 
+PLAYER 6: discards 4 at random
+Cards in Deck: 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 Jack 
+BAG: 13 Chips left
+PLAYER 6: eats 2 chips
+BAG: 11 Chips left
+Next player: 1
+PLAYER 1: hand 12
+PLAYER 1: draws 11
+Cards in Deck: 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 
+PLAYER 1: discards 11 at random
+Cards in Deck: Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 3 
+BAG: 11 Chips left
+PLAYER 1: eats 3 chips
+BAG: 8 Chips left
+Next player: 2
+PLAYER 2: hand 13
+PLAYER 2: draws 3
+Cards in Deck: Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 
+PLAYER 2: discards 3 at random
+Cards in Deck: 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 Jack 
+BAG: 8 Chips left
+PLAYER 2: eats 2 chips
+BAG: 6 Chips left
+Next player: 3
+PLAYER 3: hand 6
+PLAYER 3: draws 11
+Cards in Deck: 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 
+PLAYER 3: discards 11 at random
+Cards in Deck: Jack 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 3 
+BAG: 6 Chips left
+PLAYER 3: eats 1 chips
+BAG: 5 Chips left
+Next player: 5
+PLAYER 5: hand 5
+PLAYER 5: draws 3
+Cards in Deck: Jack 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 
+PLAYER 5: discards 3 at random
+Cards in Deck: 3 Jack 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 2 
+BAG: 5 Chips left
+PLAYER 5: eats 2 chips
+BAG: 3 Chips left
+Next player: 6
+PLAYER 6: hand 10
+PLAYER 6: draws 2
+Cards in Deck: 3 Jack 3 Jack 4 9 6 3 9 7 Queen 4 4 2 King 7 10 Jack Ace King Ace Queen King 8 8 6 9 Queen 10 5 2 5 9 10 6 7 7 Jack 3 Ace 5 8 4 8 Ace 
+PLAYER 6: hand (10, 2) <> Greasy card is 2
+PLAYER 5: lost round 4
+PLAYER 5: lost round 4
+Next player: 1
+PLAYER 2: lost round 4
+PLAYER 3: lost round 4
+PLAYER 6: wins round 4
+PLAYER 1: lost round 4
+The Current Round: 4 has ended. 
+
+ROUND 5: Greasy Card is 4
+BAG: 30 Chips left
+PLAYER 6: hand 10
+PLAYER 6: draws 13
+Cards in Deck: 8 Jack 9 10 2 Jack 8 6 Queen 10 King Jack 2 5 Ace 4 8 9 3 2 6 Queen 3 6 7 3 10 8 Ace 6 5 2 5 7 9 Queen Ace 4 King King 9 Jack 7 4 5 
+PLAYER 6: discards 10 at random
+Cards in Deck: 10 8 Jack 9 10 2 Jack 8 6 Queen 10 King Jack 2 5 Ace 4 8 9 3 2 6 Queen 3 6 7 3 10 8 Ace 6 5 2 5 7 9 Queen Ace 4 King King 9 Jack 7 4 5 
+BAG: 30 Chips left
+PLAYER 6: eats 5 chips
+BAG: 25 Chips left
+Next player: 1
+PLAYER 1: hand 12
+PLAYER 1: draws 5
+Cards in Deck: 10 8 Jack 9 10 2 Jack 8 6 Queen 10 King Jack 2 5 Ace 4 8 9 3 2 6 Queen 3 6 7 3 10 8 Ace 6 5 2 5 7 9 Queen Ace 4 King King 9 Jack 7 4 
+PLAYER 1: discards 5 at random
+Cards in Deck: 5 10 8 Jack 9 10 2 Jack 8 6 Queen 10 King Jack 2 5 Ace 4 8 9 3 2 6 Queen 3 6 7 3 10 8 Ace 6 5 2 5 7 9 Queen Ace 4 King King 9 Jack 7 4 
+BAG: 25 Chips left
+PLAYER 1: eats 2 chips
+BAG: 23 Chips left
+Next player: 2
+PLAYER 2: hand 1
+PLAYER 2: draws 4
+Cards in Deck: 5 10 8 Jack 9 10 2 Jack 8 6 Queen 10 King Jack 2 5 Ace 4 8 9 3 2 6 Queen 3 6 7 3 10 8 Ace 6 5 2 5 7 9 Queen Ace 4 King King 9 Jack 7 
+PLAYER 2: hand (1, 4) <> Greasy card is 4
+Next player: 1
+PLAYER 2: wins round 5
+PLAYER 6: lost round 5
+PLAYER 4: lost round 5
+PLAYER 1: lost round 5
+PLAYER 3: lost round 5
+The Current Round: 5 has ended. 
+
+ROUND 6: Greasy Card is 6
+BAG: 30 Chips left
+PLAYER 1: hand 2
+PLAYER 1: draws 12
+Cards in Deck: 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King Queen King 
+PLAYER 1: discards 2 at random
+Cards in Deck: 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King Queen King 
+BAG: 30 Chips left
+PLAYER 1: eats 4 chips
+BAG: 26 Chips left
+Next player: 2
+PLAYER 2: hand 7
+PLAYER 2: draws 13
+Cards in Deck: 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King Queen 
+PLAYER 2: discards 13 at random
+Cards in Deck: King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King Queen 
+BAG: 26 Chips left
+PLAYER 2: eats 4 chips
+BAG: 22 Chips left
+Next player: 3
+PLAYER 3: hand 7
+PLAYER 3: draws 12
+Cards in Deck: King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King 
+PLAYER 3: discards 12 at random
+Cards in Deck: Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 King 
+BAG: 22 Chips left
+PLAYER 3: eats 5 chips
+BAG: 17 Chips left
+Next player: 4
+PLAYER 4: hand 2
+PLAYER 4: draws 13
+Cards in Deck: Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 
+PLAYER 4: discards 13 at random
+Cards in Deck: King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 4 
+BAG: 17 Chips left
+PLAYER 4: eats 3 chips
+BAG: 14 Chips left
+Next player: 5
+PLAYER 5: hand 5
+PLAYER 5: draws 4
+Cards in Deck: King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 
+PLAYER 5: discards 5 at random
+Cards in Deck: 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 King 
+BAG: 14 Chips left
+PLAYER 5: eats 3 chips
+BAG: 11 Chips left
+Next player: 1
+PLAYER 1: hand 12
+PLAYER 1: draws 13
+Cards in Deck: 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 
+PLAYER 1: discards 13 at random
+Cards in Deck: King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 9 
+BAG: 11 Chips left
+PLAYER 1: eats 3 chips
+BAG: 8 Chips left
+Next player: 2
+PLAYER 2: hand 7
+PLAYER 2: draws 9
+Cards in Deck: King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 
+PLAYER 2: discards 7 at random
+Cards in Deck: 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 5 
+BAG: 8 Chips left
+PLAYER 2: eats 5 chips
+BAG: 3 Chips left
+Next player: 3
+PLAYER 3: hand 7
+PLAYER 3: draws 5
+Cards in Deck: 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 
+PLAYER 3: discards 5 at random
+Cards in Deck: 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack Ace 
+BAG: 3 Chips left
+PLAYER 3: eats 3 chips
+BAG: 30 Chips left
+Next player: 4
+PLAYER 4: hand 2
+PLAYER 4: draws 1
+Cards in Deck: 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack 
+PLAYER 4: discards 2 at random
+Cards in Deck: 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 Jack 
+BAG: 30 Chips left
+PLAYER 4: eats 4 chips
+BAG: 26 Chips left
+Next player: 5
+PLAYER 5: hand 4
+PLAYER 5: draws 11
+Cards in Deck: 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 
+PLAYER 5: discards 11 at random
+Cards in Deck: Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 2 
+BAG: 26 Chips left
+PLAYER 5: eats 4 chips
+BAG: 22 Chips left
+Next player: 1
+PLAYER 1: hand 12
+PLAYER 1: draws 2
+Cards in Deck: Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 
+PLAYER 1: discards 12 at random
+Cards in Deck: Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 Queen 
+BAG: 22 Chips left
+PLAYER 1: eats 5 chips
+BAG: 17 Chips left
+Next player: 2
+PLAYER 2: hand 9
+PLAYER 2: draws 12
+Cards in Deck: Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 
+PLAYER 2: discards 9 at random
+Cards in Deck: 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 10 
+BAG: 17 Chips left
+PLAYER 2: eats 1 chips
+BAG: 16 Chips left
+Next player: 3
+PLAYER 3: hand 7
+PLAYER 3: draws 10
+Cards in Deck: 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 
+PLAYER 3: discards 10 at random
+Cards in Deck: 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 5 
+BAG: 16 Chips left
+PLAYER 3: eats 5 chips
+BAG: 11 Chips left
+Next player: 4
+PLAYER 4: hand 1
+PLAYER 4: draws 5
+Cards in Deck: 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 
+PLAYER 4: discards 1 at random
+Cards in Deck: Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 8 
+BAG: 11 Chips left
+PLAYER 4: eats 1 chips
+BAG: 10 Chips left
+Next player: 5
+PLAYER 5: hand 4
+PLAYER 5: draws 8
+Cards in Deck: Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 
+PLAYER 5: discards 4 at random
+Cards in Deck: 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 Ace 
+BAG: 10 Chips left
+PLAYER 5: eats 4 chips
+BAG: 6 Chips left
+Next player: 1
+PLAYER 1: hand 2
+PLAYER 1: draws 1
+Cards in Deck: 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 
+PLAYER 1: discards 2 at random
+Cards in Deck: 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 9 
+BAG: 6 Chips left
+PLAYER 1: eats 3 chips
+BAG: 3 Chips left
+Next player: 2
+PLAYER 2: hand 12
+PLAYER 2: draws 9
+Cards in Deck: 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 
+PLAYER 2: discards 12 at random
+Cards in Deck: Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 8 
+BAG: 3 Chips left
+PLAYER 2: eats 1 chips
+BAG: 2 Chips left
+Next player: 3
+PLAYER 3: hand 7
+PLAYER 3: draws 8
+Cards in Deck: Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 
+PLAYER 3: discards 7 at random
+Cards in Deck: 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 Ace 
+BAG: 2 Chips left
+PLAYER 3: eats 5 chips
+BAG: 27 Chips left
+Next player: 4
+PLAYER 4: hand 5
+PLAYER 4: draws 1
+Cards in Deck: 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 
+PLAYER 4: discards 5 at random
+Cards in Deck: 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 2 
+BAG: 27 Chips left
+PLAYER 4: eats 1 chips
+BAG: 26 Chips left
+Next player: 5
+PLAYER 5: hand 8
+PLAYER 5: draws 2
+Cards in Deck: 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 
+PLAYER 5: discards 2 at random
+Cards in Deck: 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 4 
+BAG: 26 Chips left
+PLAYER 5: eats 2 chips
+BAG: 24 Chips left
+Next player: 1
+PLAYER 1: hand 1
+PLAYER 1: draws 4
+Cards in Deck: 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 
+PLAYER 1: discards 4 at random
+Cards in Deck: 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 4 
+BAG: 24 Chips left
+PLAYER 1: eats 1 chips
+BAG: 23 Chips left
+Next player: 2
+PLAYER 2: hand 9
+PLAYER 2: draws 4
+Cards in Deck: 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 
+PLAYER 2: discards 4 at random
+Cards in Deck: 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 3 
+BAG: 23 Chips left
+PLAYER 2: eats 3 chips
+BAG: 20 Chips left
+Next player: 3
+PLAYER 3: hand 8
+PLAYER 3: draws 3
+Cards in Deck: 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 
+PLAYER 3: discards 8 at random
+Cards in Deck: 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 8 
+BAG: 20 Chips left
+PLAYER 3: eats 4 chips
+BAG: 16 Chips left
+Next player: 4
+PLAYER 4: hand 1
+PLAYER 4: draws 8
+Cards in Deck: 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 
+PLAYER 4: discards 8 at random
+Cards in Deck: 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 Jack 
+BAG: 16 Chips left
+PLAYER 4: eats 2 chips
+BAG: 14 Chips left
+Next player: 5
+PLAYER 5: hand 8
+PLAYER 5: draws 11
+Cards in Deck: 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 
+PLAYER 5: discards 11 at random
+Cards in Deck: Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 10 
+BAG: 14 Chips left
+PLAYER 5: eats 1 chips
+BAG: 13 Chips left
+Next player: 1
+PLAYER 1: hand 1
+PLAYER 1: draws 10
+Cards in Deck: Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 
+PLAYER 1: discards 10 at random
+Cards in Deck: 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 3 
+BAG: 13 Chips left
+PLAYER 1: eats 5 chips
+BAG: 8 Chips left
+Next player: 2
+PLAYER 2: hand 9
+PLAYER 2: draws 3
+Cards in Deck: 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 
+PLAYER 2: discards 3 at random
+Cards in Deck: 3 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 Ace 
+BAG: 8 Chips left
+PLAYER 2: eats 1 chips
+BAG: 7 Chips left
+Next player: 3
+PLAYER 3: hand 3
+PLAYER 3: draws 1
+Cards in Deck: 3 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 
+PLAYER 3: discards 3 at random
+Cards in Deck: 3 3 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 6 
+BAG: 7 Chips left
+PLAYER 3: eats 4 chips
+BAG: 3 Chips left
+Next player: 4
+PLAYER 4: hand 1
+PLAYER 4: draws 6
+Cards in Deck: 3 3 10 Jack 8 8 4 4 2 5 7 Queen 2 4 Ace 10 9 Queen Jack 2 5 7 King 5 King Queen King 2 3 6 9 9 Jack 8 Jack 7 King 3 10 10 6 7 Queen 5 4 
+PLAYER 4: hand (1, 6) <> Greasy card is 6
+Next player: 1
+Next player: 1
+PLAYER 2: lost round 6
+PLAYER 5: lost round 6
+PLAYER 1: lost round 6
+PLAYER 3: lost round 6
+PLAYER 4: wins round 6
+The Current Round: 6 has ended. 
+
+xxxxxxxxxxLinux Output Terminal xxxxxxxxxxxxxxxxxxxxxxxxx
+[nam166@eros Program2]$ ./greasycards 9783 6 30
+ROUND 1: Greasy Card is Queen
+PLAYER 3: wins round 1
+PLAYER 2: lost round 1
+PLAYER 5: lost round 1
+PLAYER 4: lost round 1
+PLAYER 6: lost round 1
+ROUND 2: Greasy Card is 3
+PLAYER 4: wins round 2
+PLAYER 1: lost round 2
+PLAYER 6: lost round 2
+PLAYER 5: lost round 2
+PLAYER 3: lost round 2
+ROUND 3: Greasy Card is 4
+PLAYER 5: lost round 3
+PLAYER 4: lost round 3
+PLAYER 2: lost round 3
+PLAYER 6: wins round 3
+PLAYER 1: lost round 3
+ROUND 4: Greasy Card is 2
+PLAYER 5: lost round 4
+PLAYER 2: lost round 4
+PLAYER 3: lost round 4
+PLAYER 6: wins round 4
+PLAYER 1: lost round 4
+ROUND 5: Greasy Card is 4
+PLAYER 2: wins round 5
+PLAYER 6: lost round 5
+PLAYER 4: lost round 5
+PLAYER 1: lost round 5
+PLAYER 3: lost round 5
+ROUND 6: Greasy Card is 6
+PLAYER 2: lost round 6
+PLAYER 5: lost round 6
+PLAYER 1: lost round 6
+PLAYER 3: lost round 6
+PLAYER 4: wins round 6
+[nam166@eros Program2]$
+
